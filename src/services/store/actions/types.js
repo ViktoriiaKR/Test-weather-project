@@ -1,0 +1,1 @@
+export const SHOW_WEATHER_INFO = 'SHOW_WEATHER_INFO';

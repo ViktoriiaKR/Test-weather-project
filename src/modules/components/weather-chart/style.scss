@@ -1,0 +1,14 @@
+.weather-chart-wrap {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    width: 100%;
+}
+
+h3 {
+    margin-top: 24px;
+}
+
+.recharts-layer .recharts-cartesian-axis-tick {
+    font-size: 12px;
+}
